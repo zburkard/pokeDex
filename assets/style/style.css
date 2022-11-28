@@ -1,0 +1,30 @@
+.wild-list {
+  max-height: 61vh;
+  color: antiquewhite;
+}
+
+.caught-list {
+  max-height: 61vh;
+}
+
+body {
+  background-image: url('https://i.pinimg.com/originals/f1/fd/74/f1fd74abdde20240ce7a6c0aa0a02dd3.gif');
+  background-size: contain;
+}
+
+.poke-img {
+  min-width: 35vh;
+  min-height: 35vh;
+}
+
+
+.active-poke {
+  background-color: rgba(253, 230, 208, 0.664);
+  backdrop-filter: blur(5px);
+  color: black;
+  contain: content;
+}
+
+.button-red {
+  background-color: #fe1400;
+}
